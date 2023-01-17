@@ -1,6 +1,6 @@
 # pomodoro
 
-A new Flutter project.
+A Flutter project who uses the pomodoro technique. Using MobX, this application centers itself in the technique and uses MobX as the main state manager.
 
 ## Getting Started
 
